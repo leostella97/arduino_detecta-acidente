@@ -34,6 +34,7 @@
 	</ol>
 </table>
 
+### O que foi feito:
 <table>
 	<ol>
 		<li>
