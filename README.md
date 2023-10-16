@@ -1,6 +1,6 @@
 # Sistema de Detecção de Acidentes 
 ## Arduino com shields de Sensor de Inclinação e Módulo GSM
-<br><br><br>
+
 <p>Este código em Arduino foi desenvolvido para criar um sistema de detecção de acidentes veiculares baseado em um sensor de inclinação. Abaixo estão os detalhes sobre o que foi feito, para que foi feito e o que é necessário para o funcionamento adequado do sistema.</p>
 
 ### Para que foi feito:
