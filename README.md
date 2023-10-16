@@ -30,6 +30,9 @@
 			<b>Teste Seguro:</b>
 			<br>
 			• Antes de implementar em um ambiente de condução real, teste o sistema de forma segura para garantir que está funcionando conforme o esperado. Simule inclinações bruscas para verificar a sensibilidade do sensor.
+		</li>
+	</ol>
+</table>
 
 <table>
 	<ol>
